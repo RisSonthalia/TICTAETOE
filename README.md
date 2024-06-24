@@ -59,10 +59,10 @@ To run the game locally:
 - Open `index.html` with your preferred web browser
 
 ## Project Structure
-`TICTAETOE/
-├── index.html
-├── styles.css
-└── script.js`
+`TICTAETOE/`
+`├── index.html`
+`├── styles.css`
+`└── script.js`
 - `index.html`: Main game structure and layout
 - `styles.css`: Styling and responsive design
 - `script.js`: Game logic and AI implementation
