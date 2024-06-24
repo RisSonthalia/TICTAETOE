@@ -23,11 +23,14 @@ Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TICT
 ## How to Play
 
 1. Open the game in your web browser.
-2. Choose your symbol (X or O).
-3. Click on an empty cell to make your move.
-4. The AI will automatically respond with its move.
-5. Continue playing until there's a winner or the game ends in a draw.
-6. Restart the game to play again!
+2. Choose an option:
+   - "Start AI" to let the AI make the first move
+   - "Start You" to make the first move yourself
+3. Select your symbol (X or O).
+4. If you chose "Start You", click on an empty cell to make your move. If you chose "Start AI", wait for the AI to make its move.
+5. Take turns with the AI, clicking on empty cells to place your symbol.
+6. The game continues until one player wins by getting three of their symbols in a row (horizontally, vertically, or diagonally), or until the board is full, resulting in a draw.
+7. Once the game ends, you can restart to play again!
 
 ## Installation
 
@@ -87,15 +90,12 @@ Contributions are welcome! If you'd like to improve the game:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Developer
 
-- **Name**: [Your Name]
-- **GitHub**: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **Email**: your.email@example.com
+- **Name**: [Rishab Sonthalua]
+- **GitHub**: [@YourGitHubUsername](https://github.com/RisSonthalia)
+- **Email**: iitianrishab88@gmail.com
 
 ## Acknowledgements
 
