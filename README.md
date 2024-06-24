@@ -88,8 +88,8 @@ Contributions are welcome! If you'd like to improve the game:
 
 ## Developer
 
-- **Name**: [Rishab Sonthalua]
-- **GitHub**: [@YourGitHubUsername](https://github.com/RisSonthalia)
+- **Name**: Rishab Sonthalia
+- **GitHub**: [@RisSonthalia](https://github.com/RisSonthalia)
 - **Email**: iitianrishab88@gmail.com
 
 ## Acknowledgements
