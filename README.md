@@ -11,7 +11,7 @@ Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TICT
 - **AI Opponent**: Play against a challenging AI that uses the Minimax algorithm.
 - **Responsive Design**: Enjoy smooth gameplay on various devices and screen sizes.
 - **Real-Time Interaction**: Experience immediate responses from the AI.
-- **Choice of Symbols**: Select your preferred symbol (X or O) before starting the game.
+- **Choice of Move**: Decide whether you want to make the first move or let the AI start.
 - **Win Detection**: Automatic detection and display of game outcomes (win, lose, or draw).
 
 ## Technologies Used
